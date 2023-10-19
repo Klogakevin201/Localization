@@ -1,1 +1,11 @@
-TEST
+GUI_LOBBY_SELECTOR: 'Выбор лобби'
+GUI_LOBBY_ON: '§9Лобби #%s'
+GUI_LOBBY_ON:
+- ''
+- '§7Вы находитесь здесь'
+GUI_ANOTHER_LOBBY_NAME: '§eЛобби #%s'
+GUI_ANOTHER_LOBBY_LORE:
+- ''
+- '§7Онлайн: §a%s'
+- ''
+- ' §e▸ Нажмите для телепортации'
